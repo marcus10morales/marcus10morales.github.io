@@ -11,9 +11,9 @@
     <img src="home.png"/>
     <img src="js.png"/>
     <img src="aboutme.png"/>
-    <h1>Hello y'all</h1>
-    <p>Welcome to my webpage for 106!</p>
-    <p>Thanks for visiting!To learn more about me <a href="aboutme.html">click here</a>   
+    <h1>About me</h1>
+    <p>Hi my name is Marcus Lawrence. I am currently a sophomore here at the University of Rhode Island.  </p>
+       
 </body>
 </html>
 
